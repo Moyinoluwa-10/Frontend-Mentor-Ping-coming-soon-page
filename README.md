@@ -1,2 +1,2 @@
-# Frontend-Mentor-Ping-coming-soon-page
-Frontend Mentor | Ping coming soon page solution
+# Frontend Mentor | Ping coming soon page solution
+
